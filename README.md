@@ -1,4 +1,6 @@
-# Bot Tiburón🦈
+# Agromos Bot
+![image](https://github.com/AgromosSV/AgromosBot-/assets/138736712/516c48d6-b15e-4c6c-9e08-f739f058096b)
+
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
 
